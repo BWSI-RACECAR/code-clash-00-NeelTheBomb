@@ -1,6 +1,6 @@
-# Test Case:
-# Input: "Hello World!"   Output: "Hello World!"
-# """
+Test Case:
+Input: "Hello World!"   Output: "Hello World!"
+"""
 
 class Solution:
     def helloworld(self, string):
